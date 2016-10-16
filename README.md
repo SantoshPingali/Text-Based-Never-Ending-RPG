@@ -9,3 +9,5 @@ Skill attributes, and a turned based fighting system.
 The catch: There is no end to this game. With starting diffuclty of Easy, Medium, and Hard; the player can keep playing hours to hone their skills. 
 
 However, if the player dies in battle, it is game over and all there progress is lost
+
+Download the images given as they display how the game looks and how it plays.
